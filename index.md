@@ -1,91 +1,138 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Contact
+=======
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+  ---------------------------------- ----------------------
+  5402 Connecticut Ave NW, Apt 400    512.665.7950
+  Washington, DC 20015                townleym\@gmail.com
+  ---------------------------------- ----------------------
 
+Education
+=========
 
-## Currently
+**University of Washington**, PhD (ABD), Geography/Demography Current\
 
-Standing on the shoulders of giants
+**Texas State University**, MS Geography\
 
-### Specialized in
+**Park University**, BS Computer Information Systems, *summa cum laude*\
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Work
+====
 
+**The Flatiron School**, Washington, DC\
+*Lead Instructor*\
 
-### Research interests
+$\textendash$
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Guiding career-change-minded students through introductory curriculum in
+Data Science with Python.
 
+Delivering content, maintaining student engagement, and providing
+real-world context.
 
-## Education
+**Spatially, Inc**, Boston, Massachusetts\
+*Lead Data Scientist*\
 
-`1654-1660`
-__The King's School, Grantham.__
+$\textendash$
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Leading a small team of data scientists who are merging spatial analytic
+techniques with traditional machine learning to build leading-edge
+location intelligence.
 
-- Sizar
+Applying sophisticated machine learning to very large sensor datasets
+($10^8$ rows daily) to extract hyper-local behavioral intelligence
+(*ensemble learning: random forests, gradient boosting; cluster
+analysis*).
 
-`1667 - death`
-__Trinity College, Cambridge__
+Deriving custom data products from multiple layers of public,
+first-party, and third-party private datasets.
 
-- Fellow
+*Spatializing* very large datasets for efficient product functionality
+(*high-volume GIS/mapping data production*).
 
+**Digitas LBi**, Boston, Massachusetts\
+*Data Scientist*\
 
+$\textendash$
 
-## Awards
+Logfile analytics ($10^8$ rows daily) of data-at-rest (`AWS`, `Hive`,
+`regex`, `R`).
 
-`2012`
-President, *Royal Society*, London, UK
+Bid and spend forecasting (*time-series*, *non-parametric regression*).
 
-Associate, *French Academy of Science*, Paris, France
+Kicking off interactive analytics project (Tableau).
 
+**University of Washington**, Seattle, Washington\
+*Graduate Research Assistant and Instructor*\
 
+$\textendash$
 
-## Publications
+Built gravity models of interstate migration using very large national
+survey data sets (*poisson regression*, `SQL`, `R`).
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Built complex GLMs to explain social/contextual effects on migration
+probabilities (*difference-in-difference*, *predicted probability
+models*).
 
-### Journals
+Taught undergraduate courses as instructor of record (including Intro
+Statistics).
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+**Dell, Inc.**, Austin, Texas\
+*Senior Consultant*, Dell Professional Services Oct 2002 -- Aug 2006\
 
-`1669`
-Lectiones opticæ.
+$\textendash$
 
-etc. etc. etc.
+Turnaround specialist: pulled multiple unprofitable/failing projects
+back from the brink.
 
-### Patents
+Delivered profitable engagements representing \$̃5M quarterly revenue.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Built globe-spanning IT infrastructure (LDAP, email, storage, backup and
+recovery).
 
+*Manager, Network Systems Engineering*, Dell Information Technology May
+2000 -- Sep 2002\
 
-## Occupation
+$\textendash$
 
-`1600`
-__Royal Mint__, London
+Integrated multiple, fragmented teams into a cohesive organization
+delivering multi-million dollar systems engineering projects with
+C-level visibility.
 
-- Warden
-- Minted coins
+Rewarded high performers, coached the unmotivated, and managed out poor
+performers.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Retained top talent, made the team an aspirational organization for
+junior level engineers.
 
+Skills
+======
 
+  ------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Statistical methods**   R (expert), Hypothesis testing, Linear and log-linear regression (`GLM`), hierarchical models, additive models (`GAM`), linear decomposition, supervised learning and prediction, multivariate analysis, Bayesian methods
+  **Machine learning**      Supervised classification, ensemble methods (random forest, gradient boosting), sparse/incidence matrix analysis (similarity/distance), singular value decomposition, cluster and factor analysis
+  **Data wrangling**        SQL, Hadoop/Hive, shell text manipulation (`regex`, `sed`, `awk`), Python, `Perl`
+  **Spatial analysis**      (Using R), `GEOS`, `GDAL`, Spatial statistics, geometric methods
+  ------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!-- ### Footer
+Honors
+======
 
-Last updated: May 2013 -->
+Center for Studies in Demography and Ecology, University of Washington,
+Shanahan Fellowship for Advanced Study in Demography, 2010 - 2012
 
+**Statistical packages:** R (expert), SAS, Stata
+
+**Statistical methods:** linear and log-linear regression, hierarchical
+models, supervised learning and prediction, multivariate analysis,
+Bayesian methods
+
+**Data shaping and management:** SQL, Hadoop/Hive, shell text
+manipulation (`regex`, `sed`, `awk`), Python, `Perl`
+
+**Applications:** LaTeX, pandoc, markdown, ArcGIS, common database,
+spreadsheet, and presentation software
+
+**Writing and editing** & Writing and reviewing academic articles for
+journal publication\
+**Operating Systems:** MacOS, Unix/Linux, Windows\
 
