@@ -18,8 +18,8 @@ Integrating design thinking with analytics, seeking an edge in the arms race of 
 `2008 - 2013`
 __PhD (ABD) The University of Washington__
 
-[Geography](https://geography.washington.edu)
-[Demography](https://csde.washington.edu/)
+[Geography](https://geography.washington.edu) | 
+[Demography](https://csde.washington.edu/) | 
 [Social Statistics](https://csss.washington.edu)
 
 Research areas: Population health, household/family, interstate migration
@@ -92,11 +92,11 @@ I'm learning about reinforcement learning. Empirical science is fun but quantify
 
 __Shaping data__
 
-I'm an old bash hack. Even on pretty big files I can strip all the quotes out pretty quickly with *$ sed -e 's:\"::g' inputfile* or extract all of the records whose fields match some regular expression *$ awk -F'|' '$2 ~ /regex/' > outfile*.
+I'm an old bash hack. Even on pretty big files I can strip all the quotes out pretty quickly with *$ sed -e 's:\"::g'* inputfile* or extract all of the records whose fields match some regular expression *$ awk -F'|' '$2 ~ /regex/' > outfile*.
 
 __I'm a teacher__
 
-I'm happiest helping other people learn. It's difficult to stand back and watch someone do something differently than I would, or in a way that I think is inefficient.
+I'm happiest helping other people learn. It's difficult to stand back and watch someone do something differently than I would, or in a way that I think is inefficient, but that tension is where the learning happens.
 
 
 
