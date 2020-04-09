@@ -25,20 +25,20 @@ __PhD (ABD) The University of Washington__
 Research areas: Population health, household/family, interstate migration
 
 `2006 - 2008`
-__MS Texas State  University__ [Geography](https://www.geo.txstate.edu/)
+__MS Texas State  University__, [Geography](https://www.geo.txstate.edu/)
 
 `1999`
-__BS Park University__ Computer Information Systems *summa cum laude*
+__BS Park University__, Computer Information Systems, *summa cum laude*
 
 ## Work
 
 `2019 - Now`
-__[ICF](https://www.icf.com/work/advisory/spark-labs)__ Fairfax, VA, *Lead Data Scientist*
+__[ICF](https://www.icf.com/work/advisory/spark-labs)__, Fairfax, VA, *Lead Data Scientist*
 
-Working in the Corporate Innovation Function to elevate and modernize ICF's analytic capability across the organization. Our small team does data science project consultation, assists with technical development in the capture process, and operations work to develop analytics capability across the business.
+Working in the Corporate Innovation Function to elevate and modernize ICF's analytic capability across the organization. Our small team brings analytic consultation to projects, assists with technical development in the capture process, and operations work to develop analytics capability across the business.
 
 `2018 - 2019`
-__[The Flatiron School](https://flatironschool.com/campuses/washington-dc)__ Washington, DC, *Lead Instructor*
+__[The Flatiron School](https://flatironschool.com/campuses/washington-dc)__, Washington, DC, *Lead Instructor*
 
 Guiding career-change-minded students through introductory curriculum in Data Science with Python.
 
@@ -47,8 +47,7 @@ __[Spatially, Inc](https://spatiallyhealth.com/)__, Boston, MA, *Lead Data Scien
 
 Leading a small team of data scientists who are merging spatial analytic techniques with traditional machine learning to build leading-edge location intelligence.
 
-Applying sophisticated machine learning to very large sensor datasets (100MM rows daily) to extract hyper-local behavioral intelligence (*ensemble learning: random forests, gradient boosting; cluster
-analysis*).
+Applying sophisticated machine learning to very large sensor datasets (100MM rows daily) to extract hyper-local behavioral intelligence (*ensemble learning: random forests, gradient boosting; cluster analysis*).
 
 `2015`
 __[Digitas, LBi](https://www.digitas.com/en-us)__, Boston, MA, *Data Scientist*
@@ -60,9 +59,9 @@ __University of Washington__, Seattle, Washington, *Graduate Research Assistant 
 
 Shanahan Fellow for Advanced Study in Demography, 2010-2012.
 
-Built gravity models of interstate migration using very large national survey data sets (*poisson regression*, SQL, R*).
+Built gravity models of interstate migration using very large national survey data sets (*poisson regression, SQL, R*).
 
-Built complex GLMs to explain social/contextual effects on migration probabilities (*difference-in-difference*, *predicted probability models*).
+Fit complex GLMs to explain [social/contextual effects on migration probabilities](https://doi.org/10.1016/j.polgeo.2014.06.001) and [STEM Labor Markets](https://www.tandfonline.com/doi/full/10.1080/00130095.2016.1220803)
 
 Taught undergraduate courses as instructor of record (including Intro Statistics).
 
@@ -82,17 +81,62 @@ Integrated multiple, fragmented teams into a cohesive organization, delivered mu
 
 Retained top talent, made the team an aspirational organization for junior level engineers.
 
+## Publications
+
+### Journals
+
+`2017`
+Wright, Richard, Mark Ellis, and Matthew Townley. [The Matching of STEM Degree Holders with STEM Occupations in Large Metropolitan Labor Markets in the United States](https://doi.org/10.1080/00130095.2016.1220803). *Economic Geography*. Volume: 93 issue: 2, page(s) 185-201, [DOI: 10.1080/00130095.2016.1220803](https://doi.org/10.1080/00130095.2016.1220803).
+
+`2016`
+Mark Ellis, Richard Wright & Matthew Townley. [State-Scale Immigration Enforcement and Latino Interstate Migration in the United States](https://doi.org/10.1080/24694452.2015.1135725). *Annals of the American Association of Geographers*, Volume: 106: issue: 4, page(s) 891-908, [DOI: 10.1080/24694452.2015.1135725](https://doi.org/10.1080/24694452.2015.1135725)
+
+`2014`
+Ellis, Mark, Richard Wright, Matthew Townley, and Kristy Copeland. [The migration response to the Legal Arizona Workers Act](https://doi.org/10.1016/j.polgeo.2014.06.001). *Political Geography*. Volume: 42, page(s) 46-56, [DOI: 10.1016/j.polgeo.2014.06.001](https://doi.org/10.1016/j.polgeo.2014.06.001).
+
+Ellis, Mark, Richard Wright, and Matthew Townley. [The Great Recession and the Allure of New Immigrant Destinations in the United States](https://doi.org/10.1111%2Fimre.12058). *International Migration Review*. Volume: 48 issue: 1, page(s): 3-33 [DOI: 10.1111/imre.12058](https://doi.org/10.1111/imre.12058).
+
+## Lectures and Talks
+
+`2013`
+Local roots, seeds and STEMs:  the development of high-tech talent in place. 2013 International Conference on Population Geographies. Groningen, The Netherlands, June 25, 2013.
+
+Explaining Obesity Rates in America: A Decomposition Approach. 2013 Annual Meeting of the Association of American Geographers. Los Angeles, CA. April 12, 2013.
+
+Quantitative Methods in Geography. Instructor of record. Upper-division introduction to inferential statistics covering the basics of data analysis, spatial analysis, and linear regression for Geography majors. Spring 2013
+
+`2012`
+Geography of Cities. Instructor of record. Introductory course on Urban Geography that examined cities from the perspective of current debates on sustainability and urbanism. Summer 2012.
+
+US Interstate Migration and Restructuring. Session Chair and Organizer. 2012 Annual Meeting of the Association of American Geographers. New York, NY. February 25, 2012.
+
+Mixed-methods research. Senior Honors Seminar, University of Washington Department of Geography. Jan 30, 2012.
+
+`2011`
+Explaining Obesity Rates in America: A Decomposition Approach.  Weekly Seminar Series, Center for Studies in Demography and Ecology. Seattle, Washington. Oct 21, 2011. 
+
+`2010`
+Geography of Food and Eating. Instructor of record. Introductory course in social and cultural geography organized around a critical examination of food production and contemporary foodways. Summer 2010.
+
+Fit and Fat cities. Lecture to Geography 271, Geography of Food and Eating.  Instructor: Prof. Lucy Jarosz. Spring 2010.
+
+`2009`
+Bleeding red: Who bears the cost of the Iraq war? 2009 Annual Meeting of the Association of American Geographers. Las Vegas, NV. March 29, 2009.
+
+`2007`
+Votes and Values: Ohio in the 2004 Presidential Election. 2007 Annual Meeting of the Association of American Geographers.  San Francisco, CA.  April 21, 2007.
+
 ## Skills and interests
 
 __Quantitative analytics__
 
-I know how hard it is to get a propensity model for causal analysis to work. I've written my own functions for confusion matrix analysis. Assessing predictive model fit is pretty easy, but getting predictive error within acceptable bounds is often really hard.
+I know how hard it is to get a propensity model for causal analysis to work. I've written my own functions for confusion matrix analysis. Assessing predictive model fit is pretty easy, but getting prediction error within acceptable bounds is often really hard.
 
 I'm learning about reinforcement learning. Empirical science is fun but quantifying uncertainty seems more useful.
 
 __Shaping data__
 
-I'm an old bash hack. Even on pretty big files I can strip all the quotes out pretty quickly with *$ sed -e 's:\"::g'* inputfile* or extract all of the records whose fields match some regular expression *$ awk -F'|' '$2 ~ /regex/' > outfile*.
+I'm an old bash hack. Even on pretty big files I can strip all the quotes out pretty quickly with *$ sed -e 's:\"::g' inputfile* or extract all of the records whose fields match some regular expression *$ awk -F'|' '$2 ~ /regex/' > outfile*.
 
 __I'm a teacher__
 
