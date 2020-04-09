@@ -136,7 +136,7 @@ I'm learning about reinforcement learning. Empirical science is fun but quantify
 
 __Shaping data__
 
-I'm an old bash hack. Before reformatting as column-major parquet and loading into HDFS I can do some quick exlploration on even pretty big text files using regular expression together with the <span="codeblock" style="font-family:monospace">gnu</span> coreutils.
+I'm an old bash hack. Before reformatting as column-major parquet and loading into HDFS I can do some quick exlploration on even pretty big text files using regular expression together with the <span id="codeblock" style="font-family:monospace">gnu</span> coreutils.
 
 __I'm a teacher__
 
