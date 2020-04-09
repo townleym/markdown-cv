@@ -3,15 +3,15 @@ layout: cv
 title: Matthew Townley
 ---
 # Matthew Townley
-Data Scientist
+Data Scientist, Washington, DC
 
 <div id="webaddress">
-<a href="townleym@gmail.com">townleym@gmail.com</a> | <a href="http://rbythenumbers.com/">rbythenumbers.com</a>
+<a href="mailto:townleym@gmail.com">townleym@gmail.com</a> | <a href="http://rbythenumbers.com/">rbythenumbers.com</a> | 512.665.7950
 </div>
 
 ## Currently
 
-
+Integrating design thinking with analytics, seeking an edge in the arms race of innovative consulting delivery.
 
 
 ## Education
@@ -60,7 +60,7 @@ __University of Washington__, Seattle, Washington, *Graduate Research Assistant 
 
 Shanahan Fellow for Advanced Study in Demography, 2010-2012.
 
-Built gravity models of interstate migration using very large national survey data sets (*poisson regression*, `SQL`, `R`).
+Built gravity models of interstate migration using very large national survey data sets (*poisson regression*, SQL, R*).
 
 Built complex GLMs to explain social/contextual effects on migration probabilities (*difference-in-difference*, *predicted probability models*).
 
@@ -80,29 +80,23 @@ __Dell, Inc.__, Austin, Texas, *Manager, Network Systems Engineering*
 
 Integrated multiple, fragmented teams into a cohesive organization, delivered multi-million dollar systems engineering projects with C-level visibility.
 
-Retained top talent, made the team an aspirational organization for
-junior level engineers.
-
+Retained top talent, made the team an aspirational organization for junior level engineers.
 
 ## Skills and interests
 
-Shaping data
+__Quantitative analytics__
 
-I'm a teacher
+I know how hard it is to get a propensity model for causal analysis to work. I've written my own functions for confusion matrix analysis. Assessing predictive model fit is pretty easy, but getting predictive error within acceptable bounds is often really hard.
 
 I'm learning about reinforcement learning. Empirical science is fun but quantifying uncertainty seems more useful.
 
+__Shaping data__
+
+I'm an old bash hack. Even on pretty big files I can strip all the quotes out pretty quickly with *$ sed -e 's:\"::g' inputfile* or extract all of the records whose fields match some regular expression *$ awk -F'|' '$2 ~ /regex/' > outfile*.
+
+__I'm a teacher__
+
+I'm happiest helping other people learn. It's difficult to stand back and watch someone do something differently than I would, or in a way that I think is inefficient.
 
 
-
-
-
-
-
-
-
-  ---------------------------------- ----------------------
-  5415 Connecticut Ave NW, Apt 344    512.665.7950
-  Washington, DC 20015                townleym\@gmail.com
-  ---------------------------------- ----------------------
 
