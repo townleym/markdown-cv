@@ -136,7 +136,7 @@ I'm learning about reinforcement learning. Empirical science is fun but quantify
 
 __Shaping data__
 
-I'm an old bash hack. Even on pretty big files I can strip all the quotes out pretty quickly with *$ sed -e 's:\"::g' inputfile* or extract all of the records whose fields match some regular expression *$ awk -F'|' '$2 ~ /regex/' > outfile*.
+I'm an old bash hack. Before reformatting as column-major parquet, loading into HDFS I can do some quick exlploration on even pretty big text files using regular expresseion together with the *gnu coreutils* (<div style="font-family:monospace">sed, awk, grep</div>).
 
 __I'm a teacher__
 
