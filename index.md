@@ -59,7 +59,7 @@ __University of Washington__, Seattle, Washington, *Graduate Research Assistant 
 
 Shanahan Fellow for Advanced Study in Demography, 2010-2012.
 
-Built gravity models of interstate migration using very large national survey data sets (*poisson regression, SQL, R*).
+Built gravity models of interstate migration using very large national survey data sets (<span id = "recode">poisson regression, SQL, R</span>).
 
 Fit complex GLMs to explain [social/contextual effects on migration probabilities](https://doi.org/10.1016/j.polgeo.2014.06.001) and [STEM Labor Markets](https://www.tandfonline.com/doi/full/10.1080/00130095.2016.1220803)
 
@@ -99,7 +99,7 @@ Ellis, Mark, Richard Wright, and Matthew Townley. [The Great Recession and the A
 ## Lectures and Talks
 
 `2013`
-Local roots, seeds and STEMs:  the development of high-tech talent in place. 2013 International Conference on Population Geographies. Groningen, The Netherlands, June 25, 2013.
+Local roots, seeds and STEMs: the development of high-tech talent in place. 2013 International Conference on Population Geographies. Groningen, The Netherlands, June 25, 2013.
 
 Explaining Obesity Rates in America: A Decomposition Approach. 2013 Annual Meeting of the Association of American Geographers. Los Angeles, CA. April 12, 2013.
 
@@ -136,7 +136,7 @@ I'm learning about reinforcement learning. Empirical science is fun but quantify
 
 __Shaping data__
 
-I'm an old bash hack. Before reformatting as column-major parquet and loading into HDFS I can do some quick exlploration on even pretty big text files using regular expression together with the <span id="codeblock" style="font-family:monospace">gnu</span> coreutils.
+I'm an old bash hack. Before reformatting as column-major parquet and loading into HDFS I can do some quick exlploration on even pretty big text files using regular expression together with the <span id="recode">gnu</span> coreutils.
 
 __I'm a teacher__
 

@@ -186,8 +186,11 @@ strong {
 	display: none;
 }
 
-
-
+#recode {
+	font-family: monospace;
+	font-size: 100%;
+	color: #aaa;
+}
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
