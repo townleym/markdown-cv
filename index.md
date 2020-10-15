@@ -49,8 +49,7 @@ __[Spatially, Inc](https://spatiallyhealth.com/)__, Boston, MA, *Lead Data Scien
 
 Our team sought to bring location intelligence to the market. We applied sophisticated machine learning to very large sensor datasets (100MM rows daily) to learn behavioral patterns from the way people interacted with space. (*ensemble learning: random forests, gradient boosting; cluster analysis*)
 
-Developed, mentored, and led a small team of junior data scientists through the rocky shoals of spatial data. Consulted closely with the CEO and Product Teams to identify and develop analytic products that clients would find useful.
-
+Consulted closely with the CEO and Product Team to identify and develop analytic products that clients would find useful. Developed, mentored, and led a small team of junior data scientists through the rocky shoals of developing those products from spatial data.
 
 `2015`
 __[Digitas, LBi](https://www.digitas.com/en-us)__, Boston, MA, *Data Scientist*
@@ -62,6 +61,8 @@ __University of Washington__, Seattle, Washington, *Graduate Research Assistant 
 
 Shanahan Fellow for Advanced Study in Demography, 2010-2012.
 
+My training focused on formal demographic methods, population research, and applied social statistics.
+
 As a research assistant, I did a lot of the analytic heavy lifting to wrangle data, fit and interpret models (*log-linear, non-linear, non-parametric models*), and visualize the results in support of a multi-year NSF-funded research project on US interstate migration patterns of the foreign born (see papers below).
 
 Worked closely with the co-Principal Investigators to envision research questions, design the studies, and execute the analyses on projects that examined the [social/contextual effects on migration probabilities](https://doi.org/10.1016/j.polgeo.2014.06.001) and [STEM Labor Markets](https://www.tandfonline.com/doi/full/10.1080/00130095.2016.1220803)
@@ -72,7 +73,6 @@ Taught undergraduate courses as instructor of record (including Intro Statistics
 __Dell Professional Services__, Austin, Texas, *Senior Consultant*
 
 Managed delivery of very large IT Systems Implementation projects for key customers in both Federal and Commercial lines of business. I became something of a turnaround specialist pulling multiple unprofitable/failing projects back from the brink: from the micro (terrible customer experience on a $10K implementation) to the gigantic ($10MM/annual, multi-location, global, 60 consultant DoD project that was deeply in the red).
-
 
 `2000 -- 2002`
 __Dell, Inc.__, Austin, Texas, *Manager, Network Systems Engineering*
