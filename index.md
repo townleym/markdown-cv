@@ -47,14 +47,14 @@ Part-time, evening classroom teaching that introduced career-change minded stude
 `2016 - 2019`
 __[Spatially, Inc](https://spatiallyhealth.com/)__, Boston, MA, *Lead Data Scientist*
 
-Our team sought to bring location intelligence to the market. We applied sophisticated machine learning to very large sensor datasets (100MM rows daily) to learn behavioral patterns from the way people interacted with space. (*ensemble learning: random forests, gradient boosting; cluster analysis*)
+Our team sought to bring location intelligence to the market. Consulted closely with the CEO and Product Team to identify and develop analytic products that clients would find useful.
 
-Consulted closely with the CEO and Product Team to identify and develop analytic products that clients would find useful. Developed, mentored, and led a small team of junior data scientists through the rocky shoals of developing those products from spatial data.
+Developed, mentored, and led a small team of junior data scientists through the rocky shoals of developing those products from spatial data. We applied sophisticated machine learning to very large sensor datasets (100MM rows daily) to learn behavioral patterns from the way people interacted with space. (*ensemble learning: random forests, gradient boosting; cluster analysis*)
 
 `2015`
 __[Digitas, LBi](https://www.digitas.com/en-us)__, Boston, MA, *Data Scientist*
 
-Part of a new advanced analytics team extracting insights from previously inaccessible, large, weblog datasets (100MM rows daily). Our team pioneered the use of AWS EMR and Hadoop understand online customer behavior. Our research informed insights into customer journey, sales attribution, and media mix analyses.
+Part of a new, advanced analytics team extracting insights from previously inaccessible, large, weblog datasets (100MM rows daily) to understand online customer behavior. Our research informed insights into customer journey, sales attribution, and media mix analyses. We pioneered the use of big data tools (AWS EMR, Hadoop) within Digitas, we formalized practices for understanding large datasets, and moved to democratize the use of big data.
 
 `2008 - 2013`
 __University of Washington__, Seattle, Washington, *Graduate Research Assistant and Instructor*
@@ -72,7 +72,7 @@ Taught undergraduate courses as instructor of record (including Intro Statistics
 `2002 - 2006`
 __Dell Professional Services__, Austin, Texas, *Senior Consultant*
 
-Managed delivery of very large IT Systems Implementation projects for key customers in both Federal and Commercial lines of business. I became something of a turnaround specialist pulling multiple unprofitable/failing projects back from the brink: from the micro (terrible customer experience on a $10K implementation) to the gigantic ($10MM/annual, multi-location, global, 60 consultant DoD project that was deeply in the red).
+Managed delivery of IT Systems Implementation projects for key customers in both Federal and commercial lines of business. I became something of a turnaround specialist pulling multiple unprofitable/failing projects back from the brink: from the micro (terrible customer experience on a $10K implementation) to the gigantic ($10MM/annual, multi-location, global, 60 consultant, DoD project that was deeply in the red).
 
 `2000 -- 2002`
 __Dell, Inc.__, Austin, Texas, *Manager, Network Systems Engineering*
