@@ -22,10 +22,12 @@ __PhD (ABD) The University of Washington__
 [Demography](https://csde.washington.edu/) | 
 [Social Statistics](https://csss.washington.edu)
 
-Research areas: Population health, household/family, interstate migration
+My primary research explored the complex interconnection between the built environment, food systems, and population health. Secondary research examined changing dynamics of household formation under age-specific interstate-migration regimes.
 
 `2006 - 2008`
 __MS Texas State  University__, [Geography](https://www.geo.txstate.edu/)
+
+Thesis: Fit and Fat Cities: Examining the correlates and constructions of health in place.
 
 `1999`
 __BS Park University__, Computer Information Systems, *summa cum laude*
@@ -40,39 +42,37 @@ Working in the Corporate Innovation Function to elevate and modernize ICF's anal
 `2018 - 2019`
 __[The Flatiron School](https://flatironschool.com/campuses/washington-dc)__, Washington, DC, *Lead Instructor*
 
-Guiding career-change-minded students through introductory curriculum in Data Science with Python.
+Part-time, evening classroom teaching that introduced career-change minded students to Data Science using Python.
 
 `2016 - 2019`
 __[Spatially, Inc](https://spatiallyhealth.com/)__, Boston, MA, *Lead Data Scientist*
 
-Leading a small team of data scientists who are merging spatial analytic techniques with traditional machine learning to build leading-edge location intelligence.
+Our team sought to bring location intelligence to the market. Consulted closely with the CEO and Product Team to identify and develop analytic products that clients would find useful.
 
-Applying sophisticated machine learning to very large sensor datasets (100MM rows daily) to extract hyper-local behavioral intelligence (*ensemble learning: random forests, gradient boosting; cluster analysis*).
+Developed, mentored, and led a small team of junior data scientists through the rocky shoals of developing those products from spatial data. We applied sophisticated machine learning to very large sensor datasets (100MM rows daily) to learn behavioral patterns from the way people interacted with space. (*ensemble learning: random forests, gradient boosting; cluster analysis*)
 
 `2015`
 __[Digitas, LBi](https://www.digitas.com/en-us)__, Boston, MA, *Data Scientist*
 
-Part of a new advanced analytics team extracting insights from previously inaccessible weblog datasets (100MM rows daily). Our team pioneered the use of AWS EMR and Hive to inform customer journey, attribution, and media mix analyses.
+Part of a new, advanced analytics team extracting insights from previously inaccessible, large, weblog datasets (100MM rows daily) to understand online customer behavior. Our research informed insights into customer journey, sales attribution, and media mix analyses. We pioneered the use of big data tools (AWS EMR, Hadoop) within Digitas, we formalized practices for understanding large datasets, and moved to democratize the use of big data.
 
 `2008 - 2013`
 __University of Washington__, Seattle, Washington, *Graduate Research Assistant and Instructor*
 
 Shanahan Fellow for Advanced Study in Demography, 2010-2012.
 
-Built gravity models of interstate migration using very large national survey data sets (<span id = "recode">poisson regression, SQL, R</span>).
+My training focused on formal demographic methods, population research, and applied social statistics.
 
-Fit complex GLMs to explain [social/contextual effects on migration probabilities](https://doi.org/10.1016/j.polgeo.2014.06.001) and [STEM Labor Markets](https://www.tandfonline.com/doi/full/10.1080/00130095.2016.1220803)
+As a research assistant, I did a lot of the analytic heavy lifting to wrangle data, fit and interpret models (*log-linear, non-linear, non-parametric models*), and visualize the results in support of a multi-year NSF-funded research project on US interstate migration patterns of the foreign born (see papers below).
+
+Worked closely with the co-Principal Investigators to envision research questions, design the studies, and execute the analyses on projects that examined the [social/contextual effects on migration probabilities](https://doi.org/10.1016/j.polgeo.2014.06.001) and [STEM Labor Markets](https://www.tandfonline.com/doi/full/10.1080/00130095.2016.1220803)
 
 Taught undergraduate courses as instructor of record (including Intro Statistics).
 
 `2002 - 2006`
 __Dell Professional Services__, Austin, Texas, *Senior Consultant*
 
-Turnaround specialist: pulled multiple unprofitable/failing projects back from the brink.
-
-Delivered profitable engagements representing \$̃5M quarterly revenue.
-
-Built globe-spanning IT infrastructure (LDAP, email, storage, backup and recovery).
+Managed delivery of IT Systems Implementation projects for key customers in both Federal and commercial lines of business. I became something of a turnaround specialist pulling multiple unprofitable/failing projects back from the brink: from the micro (terrible customer experience on a $10K implementation) to the gigantic ($10MM/annual, multi-location, global, 60 consultant, DoD project that was deeply in the red).
 
 `2000 -- 2002`
 __Dell, Inc.__, Austin, Texas, *Manager, Network Systems Engineering*
